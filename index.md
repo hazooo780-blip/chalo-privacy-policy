@@ -53,7 +53,7 @@ We do **not** collect or process payment information within the app, as Chalo cu
 ## 4. Data Storage & Security
 
 Your information is stored securely using Firebase's cloud infrastructure. We take reasonable technical measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of electronic storage or transmission is 100% secure.
-Users can delete their account and all associated data directly through the app by going to Settings → Delete Account. Account deletion is permanent and all data will be removed immediately.
+Users can delete their account and all associated data directly through the app by going to Profile → Delete Account. Account deletion is permanent and all data will be removed immediately.
 
 ## 5. Your Choices
 
