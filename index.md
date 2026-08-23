@@ -15,6 +15,7 @@ Chalo ("we", "our", "the app") is operated by Mintaka Labs. This Privacy Policy 
 - Real-time GPS location, used to match drivers with nearby passengers, calculate routes, and show live trip progress
 - For drivers, location may be collected while the app is running in the background, in order to keep your position updated to nearby passengers during an active or available-for-rides state
 - Passengers may optionally save a "Home" and/or "Work" location for convenience. These saved locations are stored permanently in our systems until the user deletes them or requests account deletion.
+We may also capture a passenger's general area on their first app use, to help us understand demand across different parts of the city.
 
 **Trip Information**
 - Pickup and drop-off locations, trip history, and ride status (requested, accepted, completed, cancelled)
