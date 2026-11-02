@@ -1,5 +1,3 @@
-
-
 # Privacy Policy for Chalo
 
 **Last updated:** November 3, 2026
